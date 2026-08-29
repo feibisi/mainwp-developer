@@ -1,0 +1,5 @@
+product: mainwp-developer
+current_source: official
+official:
+  url: https://github.com/mainwp/mainwp.dev.git
+  folder: guides/
